@@ -15,7 +15,7 @@
   display: block;
 }
 
-/* .control input {
+.control input {
   display: block;
   font: inherit;
   width: 100%;
@@ -24,7 +24,7 @@
   padding: 0.25rem;
   background-color: #f7f0fa;
   color: #111;
-} */
+}
 
 .inputWrapper {
   position: relative;
