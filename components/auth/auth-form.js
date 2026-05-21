@@ -77,6 +77,9 @@ function AuthForm() {
             ref={passwordInputRef}
           />
         </div>
+        <p>
+          <a href="/forgot-password">Forgot your password?</a>
+        </p>
         <div className={classes.actions}>
           <button>{isLogin ? "Login" : "Create Account"}</button>
           <button
